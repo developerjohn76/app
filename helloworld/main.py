@@ -22,7 +22,7 @@ def main(argv=None):
     parser.parse_args(argv[1:])
 
 
-    print("Hello World! This is John")
+    print("Hello World! This is admin-code")
 
 
     return 0
